@@ -1,5 +1,5 @@
 package homework_8;
 
 public interface Color {
-    void getColor ();
+    void getColor (); // get color
 }
