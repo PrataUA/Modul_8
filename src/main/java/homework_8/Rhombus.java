@@ -1,6 +1,6 @@
 package homework_8;
 
-public class Rhombus implements Shape, Color {
+public class Rhombus extends Shape {
     public void getName() {
         System.out.println("Rhombus");
     }

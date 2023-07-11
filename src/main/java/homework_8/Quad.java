@@ -1,6 +1,6 @@
 package homework_8;
 
-public class Quad implements Shape, Color {
+public class Quad extends Shape {
     public void getName() {
         System.out.println("Quad");
     }

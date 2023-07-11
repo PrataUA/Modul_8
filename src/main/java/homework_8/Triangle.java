@@ -1,6 +1,6 @@
 package homework_8;
 
-public class Triangle implements Shape, Color {
+public class Triangle extends Shape {
     public void getName() {
         System.out.println("Triangle");
     }

@@ -1,6 +1,6 @@
 package homework_8;
 
-public class Oval implements Shape, Color {
+public class Oval extends Shape {
     public void getName() {
         System.out.println("Oval");
     }
